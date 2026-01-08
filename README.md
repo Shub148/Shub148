@@ -1,4 +1,5 @@
- Hey, I'm Shubham Yadav
+
+👋 Hey, I'm Shubham Yadav
 <div align="center">
 ✨ Full-Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Building 100x Ideas
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=32B8C6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+Future+with+Code+💻;AI+%2B+IoT+%2B+Full-Stack+Developer;Always+Learning%2C+Always+Growing+🚀" alt="Typing animation"/>
@@ -8,9 +9,12 @@ Turning Ideas Into Reality ⚡
 🎯 Quick Overview
 <table align="center"> <tr> <td align="center"><b>💼 Current Status</b><br/>Building AI & IoT Systems</td> <td align="center"><b>🎓 Learning</b><br/>DSA & DevOps</td> <td align="center"><b>🌍 Based In</b><br/>Greater Noida, India</td> </tr> </table>
 <div align="center">
-LinkedIn
-Email
-GitHub
+<img width="91" height="28" alt="image" src="https://github.com/user-attachments/assets/cd63d521-4c87-43e0-b3df-d73a4f32821c" />
+
+<img width="85" height="28" alt="image" src="https://github.com/user-attachments/assets/1120bc64-6042-406d-996c-9d797a08d7c2" />
+
+<img width="96" height="28" alt="image" src="https://github.com/user-attachments/assets/de792598-bdeb-430e-81de-873f046edd75" />
+
 Twitter
 
 </div>
@@ -45,7 +49,9 @@ I love discussing:
 
 💡 Full-stack development best practices
 
-🧠 AI implementations and optimization
+🧠 AI/ML implementations and optimization
+
+🔌 IoT and hardware integration
 
 📊 Data Structures & Algorithms problem solving
 
@@ -59,11 +65,16 @@ I code best at night (after 11 PM), fuel myself with ☕ coffee, and believe eve
 🛠️ Tech Stack
 <div align="center">
 Languages & Frameworks
-Python
-JavaScript
-React
-Node.js
-Django
+<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/1062b41d-8be3-4b42-8d65-e83d536c9515" />
+
+<img width="85" height="20" alt="image" src="https://github.com/user-attachments/assets/783839c4-354f-4481-80ac-3d6a9dac400f" />
+
+<img width="59" height="20" alt="image" src="https://github.com/user-attachments/assets/29cace29-769b-4c7b-b08b-6fde88f2c30f" />
+
+<img width="69" height="20" alt="image" src="https://github.com/user-attachments/assets/38bcdcff-8a37-45b4-8706-1d936839445f" />
+
+<img width="67" height="20" alt="image" src="https://github.com/user-attachments/assets/c02ae53c-0b4b-4496-ac9f-8f9d8edacf80" />
+
 C++
 
 Tools & Platforms
@@ -87,6 +98,7 @@ Shub148's GitHub stats
 Top Languages
 
 GitHub Streak
+<img width="495" height="195" alt="image" src="https://github.com/user-attachments/assets/41a8a89d-e6fa-4faf-9788-6b54aed17ca7" />
 
 </div>
 🚀 Featured Projects
@@ -154,6 +166,7 @@ Repository: GitHub Link
 What	How
 🏗️ Build	Scalable full-stack applications with modern tech
 🤖 Implement	AI/ML solutions for real-world problems
+🔌 Design	IoT systems with hardware integration
 ⚡ Create	Intelligent automation for waste & security
 📊 Master	Data Structures & Algorithms for competitive programming
 💡 Solve	Complex problems creatively with code
@@ -163,9 +176,9 @@ What	How
 <div align="center">
 I'm always interested in:
 
-🤝 Collaborations on AI & IoT projects
+🤝 Collaborations on AI/ML & IoT projects
 💼 Startup ideas and partnerships
-📖 Learning tech 
+📖 Teaching & Learning tech together
 🎯 Building things that matter
 💡 Discussing DSA & competitive programming
 
@@ -180,8 +193,4 @@ Built with ❤️ by Shub148 | Turning ideas into code, one commit at a time �
 
 Visitors
 
-</div> 🤝
-
-
-
--->
+</div>
