@@ -1,182 +1,53 @@
 
-👋 Hey, I'm Shubham Yadav
-<div align="center">
-Full-Stack Developer | AI/ML Enthusiast | Building 100x Ideas 🚀
+# Hi, I'm Shubham Yadav 👋
+
+## About Me
+- 🎓 B.Tech CSE Student (2024-28) at Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+- 💻 Full-Stack Developer passionate about building scalable applications
+- 🤖 AI/ML enthusiast working on computer vision projects
+- 📱 Content creator exploring UGC opportunities
+- 🚀 Startup mindset – building projects with real-world impact
+
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, HTML/CSS, C++, SQL
+
+**Frontend:** HTML5, CSS3, Responsive Design
+
+**Backend:** Node.js, Django, Firebase
+
+**AI/ML:** YOLO, TensorFlow, Gemini API
+
+**Tools & Platforms:** 
+- Version Control: Git, GitHub
+- Cloud: Firebase, Google Cloud, Vercel
+- Development: VS Code, Termux/Linux
+- Video Editing: CapCut
+
+## 🚀 Current Projects
+- **Waste Segregation AI System** – YOLO-based computer vision with Gemini API integration
+- **Smart Security System** – Full-stack web application for security management
+
+## 📊 GitHub Stats
+![Shub148's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shub148&show_icons=true&theme=radical)
+
+## 📚 Currently Learning
+- Advanced Data Structures & Algorithms
+- Django Framework Deep Dive
+- AI Model Training & Optimization
+- Digital Marketing & Growth Strategies
+
+## 🎯 Goals
+- Build production-ready full-stack applications
+- Master AI/ML implementation
+- Create 1M+ views on digital content
+- Launch a tech startup
+
+## 📫 Let's Connect
+- **Email:shub3475@gmail.com
+- **LinkedIn:www.linkedin.com/in/shubham-yadav-a45867213
+- 
+*Always open to collaboration, learning opportunities, and startup partnerships!* 🤝
 
-LinkedIn
-Twitter
-Email
-Portfolio
-
-</div>
-🔭 I'm currently
-Building AI-powered applications and trying to be a 10x developer
-
-🏗️ Working on AI Waste Segregation System - 95%+ accurate automated waste classification
-
-🔐 Developing GetBell Smart Security - IoT-based security management with real-time alerts
-
-💻 Building Full-Stack Web Applications with modern tech stack
-
-🤝 Open for collaborations & startup partnerships
-
-🌱 I'm currently learning
-DevOps, Data Structures & Algorithms (DSA), AI Model Optimization & Entrepreneurship
-
-Data Structures & Algorithms for competitive programming & interview prep
-
-Cloud deployment strategies (Docker, Kubernetes)
-
-Production-ready application architecture
-
-Advanced machine learning techniques
-
-Building scalable backend systems
-
-IoT system design & integration
-
-💬 Ask me about
-Javascript, Python, ReactJS, NodeJS, Django, Firebase, TensorFlow, Computer Vision, IoT Systems, Smart Hardware, DSA... or anything tech!
-
-I love discussing:
-
-Full-stack development best practices
-
-AI/ML implementations and optimization
-
-IoT and hardware integration
-
-Data Structures & Algorithms problem solving
-
-Startup ideas and business strategy
-
-Learning resources and tech roadmaps
-
-⚡ Fun fact
-I code best at night (after 11 PM), fuel myself with coffee, and believe every problem has a creative solution!
-
-🛠️ Tech Stack
-<div align="center">
-Languages & Frameworks
-Python
-JavaScript
-React
-Node.js
-Django
-
-Tools & Platforms
-Firebase
-Git
-VS Code
-Google Cloud
-Vercel
-
-Specialties
-TensorFlow
-OpenCV
-Arduino
-ESP32
-
-</div>
-📊 GitHub Stats
-<div align="center">
-Shub148's GitHub stats
-
-Top Languages
-
-GitHub Streak
-
-</div>
-🚀 Featured Projects
-🗑️ AI Waste Segregation System
-Real-time automated waste classification with 95%+ accuracy
-
-Project Status
-Accuracy
-
-Tech Stack: TensorFlow Lite, Arduino, ESP32-CAM, Firebase, React
-
-Features:
-
-🤖 Real-time AI waste classification
-
-🔧 Automated mechanical sorting
-
-📊 Live data monitoring & analytics
-
-📱 Cloud database integration
-
-💡 Educational feedback system
-
-Try It Live: AI Waste Segregation System
-
-Repository: GitHub Link
-
-🔐 GetBell Smart Security Management
-IoT-based intelligent security system with real-time monitoring
-
-Project Status
-Platform
-
-Tech Stack: JavaScript, React, Firebase, IoT Sensors, Real-time Database
-
-Features:
-
-🚨 Real-time security alerts
-
-📱 Mobile app integration
-
-📊 Analytics dashboard
-
-🔔 Instant notifications
-
-🗺️ Location tracking
-
-🔐 Secure authentication
-
-Try It Live: GetBell Smart Security
-
-Repository: GitHub Link
-
-📋 Attendance Tracker
-Smart attendance management system
-
-Tech: JavaScript, Firebase, React
-
-Status: ✅ Active Development
-
-Repository: GitHub Link
-
-🎯 What I Do
-✅ Build scalable full-stack applications with modern tech stack
-✅ Implement AI/ML solutions for real-world problems
-✅ Design & deploy IoT systems with hardware integration
-✅ Create intelligent automation systems for waste management & security
-✅ Master Data Structures & Algorithms for competitive programming
-✅ Solve problems creatively with code and innovation
-✅ Learn continuously and share knowledge with community
-
-🌟 Let's Connect!
-I'm always interested in:
-
-🤝 Collaborating on AI/ML & IoT projects
-
-💼 Startup ideas and partnerships
-
-📖 Learning and teaching tech
-
-🎯 Building things that matter
-
-💡 DSA discussions and problem solving
-
-<div align="center">
-Reach out on LinkedIn or Email
-
-
-
-</div>
-<div align="center">
-Built with ❤️ by Shub148
 Turning ideas into code, one commit at a time 🚀
 
 </div>>
