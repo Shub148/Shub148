@@ -3,7 +3,7 @@
 <div align="center">
 ✨ Full-Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Building 100x Ideas
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=32B8C6&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Building+the+Future+with+Code+💻;AI+%2B+IoT+%2B+Full-Stack+Developer;Always+Learning%2C+Always+Growing+🚀" alt="Typing animation"/>
-Turning Ideas Into Reality ⚡
+
 
 </div>
 🎯 Quick Overview
@@ -27,20 +27,6 @@ Building AI-powered applications and trying to be a 10x developer
 💻	Building Full-Stack Web Applications with modern stack
 🤝	Open for collaborations & startup partnerships
 </div>
-🌱 I'm currently learning
-DevOps, Data Structures & Algorithms (DSA), AI Model Optimization & Entrepreneurship
-
-📚 Data Structures & Algorithms for competitive programming & interview prep
-
-🐳 Cloud deployment strategies (Docker, Kubernetes)
-
-🏗️ Production-ready application architecture
-
-🤖 Advanced machine learning techniques
-
-⚙️ Building scalable backend systems
-
-🔌 IoT system design & integration
 
 💬 Ask me about
 Javascript, Python, ReactJS, NodeJS, Django, Firebase, TensorFlow, Computer Vision, IoT Systems, Smart Hardware, DSA... or anything tech!
@@ -106,11 +92,13 @@ GitHub Streak
 Real-time automated waste classification with 95%+ accuracy
 
 <div align="center">
-Status
-Accuracy
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/d8594fa1-382b-4d4a-bcbe-169f7ef3d8fe" />
+
+<img width="153" height="28" alt="image" src="https://github.com/user-attachments/assets/31195ee4-9432-4666-ab43-29446cb586f1" />
+
 
 </div>
-Tech Stack: TensorFlow Lite, Arduino, ESP32-CAM, Firebase, React
+<b>Tech Stack</b>: TensorFlow Lite, Arduino, ESP32-CAM, Firebase, React
 
 Features:
 
@@ -124,17 +112,19 @@ Features:
 
 💡 Educational feedback system for users
 
-🎯 Live Demo: AI Waste Segregation System | 📂 Repository: GitHub Link
+🎯 Live Demo: https://ai-waste-segregation-system.vercel.app/ | 📂 Repository: https://github.com/Shub148/ai-waste-segregation
 
 🔐 GetBell Smart Security Management
 IoT-based intelligent security system with real-time monitoring
 
 <div align="center">
-Status
-Platform
+<img width="127" height="28" alt="image" src="https://github.com/user-attachments/assets/765dd66b-88f9-49af-9245-1640c4a0db06" />
+
+<img width="184" height="28" alt="image" src="https://github.com/user-attachments/assets/10524bda-942d-4c0f-9f38-f8e94cfbd8e8" />
+
 
 </div>
-Tech Stack: JavaScript, React, Firebase, IoT Sensors, Real-time Database
+<b>Tech Stack</b>: JavaScript, React, Firebase, IoT Sensors, Real-time Database
 
 Features:
 
@@ -150,7 +140,7 @@ Features:
 
 🔐 Secure authentication & encryption
 
-🎯 Live Demo: GetBell Smart Security | 📂 Repository: GitHub Link
+🎯 Live Demo: https://getbell-smart-security-system-chedrsdsc-shub148s-projects.vercel.app/ | 📂 Repository: https://github.com/Shub148/getbell-security
 
 📋 Attendance Tracker
 Smart attendance management system with real-time sync
@@ -159,7 +149,7 @@ Tech: JavaScript, Firebase, React
 
 Status: ✅ Active Development
 
-Repository: GitHub Link
+Repository: https://github.com/Shub148/attendance-tracker
 
 🎯 What I Do
 <div align="center">
@@ -184,13 +174,16 @@ I'm always interested in:
 
 Let's build something amazing together!
 
-LinkedIn
-Email
+<img width="185" height="28" alt="image" src="https://github.com/user-attachments/assets/54cd4dad-c8b6-4872-b59e-0521903efc32" />
+
+<img width="167" height="28" alt="image" src="https://github.com/user-attachments/assets/e4234108-e0cd-4cb4-887c-bb316c4cc817" />
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=32B8C6&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Star+⭐+if+you+find+it+useful;Fork+and+contribute+🚀" alt="Thanks message"/> </div>
 <div align="center">
 Built with ❤️ by Shub148 | Turning ideas into code, one commit at a time 🚀
 
-Visitors
+<img width="167" height="28" alt="image" src="https://github.com/user-attachments/assets/e5ab05f2-3cfb-4702-bc56-680fbc8e7edb" />
+
 
 </div>
