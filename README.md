@@ -28,7 +28,7 @@
 - **Smart Security System** – Full-stack web application for security management
 
 ## 📊 GitHub Stats
-![Shub148's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shub148&show_icons=true&theme=radical)
+![Shub148's GitHub Stats](https://streak-stats.demolab.com?user=Shub148&theme=radical&hide_border=true)
 
 ## 📚 Currently Learning
 - Advanced Data Structures & Algorithms
@@ -50,4 +50,4 @@
 
 Turning ideas into code, one commit at a time 🚀
 
-</div>>
+</div>
