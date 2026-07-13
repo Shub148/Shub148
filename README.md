@@ -1,3 +1,5 @@
+## 📖 ORCID
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--2031--1197-green?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-2031-1197)
 
 # Hi, I'm Shubham Yadav 👋
 
