@@ -3,23 +3,26 @@
 
 # 👋 Hi, I'm **Shubham Yadav**
 
-### 🚀 DevOps Engineer | Full-Stack Developer | AI/ML Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Full+Stack+Developer;AI%2FML+Enthusiast;Cloud+%26+Open+Source+Learner" />
 
-<p align="center">
-  <a href="https://orcid.org/0009-0000-2031-1197">
-    <img src="https://img.shields.io/badge/ORCID-0009--0000--2031--1197-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-yadav-a45867213">
-    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:shub3475@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+### 🚀 Building Scalable Applications • Automating Infrastructure • Developing AI Solutions
+
+<p>
+<a href="https://www.linkedin.com/in/shubham-yadav-a45867213">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shub3475@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://orcid.org/0009-0000-2031-1197">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Shub148&style=for-the-badge&color=blue"/>
+
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Shub148&style=for-the-badge&color=0e75b6"/>
-
-### 💻 Building Scalable Applications • ☁️ Learning Cloud Native Technologies • 🤖 Developing AI Solutions
 
 </div>
 
@@ -27,54 +30,46 @@
 
 # 💫 About Me
 
-🎓 **B.Tech in Computer Science & Engineering (2024–2028)**  
+🎓 **B.Tech Computer Science & Engineering (2024–2028)**  
 🏫 Dr. A.P.J. Abdul Kalam Technical University (AKTU)
 
-I'm a passionate developer with a strong interest in **DevOps, Cloud Computing, Full-Stack Development, and Artificial Intelligence**. I enjoy solving real-world problems by building scalable applications, automating deployments, and experimenting with modern AI technologies.
+I'm passionate about **DevOps, Cloud Computing, Full-Stack Development, and Artificial Intelligence**. I enjoy building production-ready applications, automating deployments, and solving real-world problems with modern technologies.
 
-- 🌱 Currently improving my DevOps and Cloud skills
-- 🚀 Love building production-ready projects
-- 🤝 Open to Hackathons & Open Source Collaboration
-- 💡 Always learning something new
+- 🚀 DevOps & Cloud Enthusiast
+- 💻 Full Stack Developer
+- 🤖 AI/ML & Computer Vision Explorer
+- 🌱 Learning AWS, Kubernetes & System Design
+- 🤝 Open to Open Source & Hackathons
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-## 💻 Programming Languages
+## Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css,bash,mysql"/>
 </p>
 
----
-
-## 🌐 Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,javascript"/>
 </p>
 
-- Responsive Web Design
-- REST API Integration
-
----
-
-## ⚙️ Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,django,firebase"/>
 </p>
 
----
-
-## ☁️ DevOps & Cloud
+## DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,jenkins,aws,nginx"/>
 </p>
 
-### Skills
+### DevOps Skills
 
 - Linux Administration
 - Git & GitHub
@@ -83,81 +78,58 @@ I'm a passionate developer with a strong interest in **DevOps, Cloud Computing, 
 - Kubernetes
 - Jenkins CI/CD
 - Shell Scripting
-- AWS (EC2, IAM, S3 - Learning)
+- AWS EC2
+- AWS IAM
+- AWS S3
 - Nginx
 - CI/CD Pipelines
 
----
-
-## 🤖 AI / Machine Learning
+## AI / ML
 
 - YOLO
 - TensorFlow
 - Gemini API
 - Computer Vision
 
----
-
-## 🛠️ Development Tools
+## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,vercel,gcp,firebase"/>
+<img src="https://skillicons.dev/icons?i=vscode,postman,vercel,gcp,firebase"/>
 </p>
-
-Additional Tools
-
-- CapCut
-- Termux
-- Postman
 
 ---
 
 # 🚀 Featured Projects
 
-## ♻️ Waste Segregation AI System
+## ♻️ Waste Segregation AI
 
-AI-powered waste detection and classification using **YOLO + Gemini API**.
-
-### Features
-
-- Real-time Waste Detection
-- Smart Classification
-- AI-generated Explanations
-- Computer Vision Pipeline
+AI-powered waste detection using **YOLO + Gemini API** with intelligent classification.
 
 ---
 
-## 🛡️ Smart Security System
+## 🛡 Smart Security System
 
-A modern Full-Stack web application for security monitoring and management.
-
-### Tech Used
-
-- Django
-- Firebase
-- JavaScript
-- HTML
-- CSS
+Full-Stack web application with secure authentication and monitoring.
 
 ---
 
 ## ☁️ DevOps Projects
 
 - Dockerized Applications
+- Jenkins CI/CD Pipeline
 - Kubernetes Deployments
-- Jenkins CI/CD Pipelines
-- AWS EC2 Deployments
+- AWS EC2 Hosting
 - Linux Automation Scripts
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shub148&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shub148&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shub148&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shub148&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -175,47 +147,48 @@ A modern Full-Stack web application for security monitoring and management.
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shub148&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
 # 📚 Currently Learning
 
-- Advanced Data Structures & Algorithms
-- System Design
-- Advanced Kubernetes
-- Terraform
-- AWS Cloud Services
-- Microservices
-- AI Model Optimization
+- ☁️ AWS Cloud
+- ⚙️ Terraform
+- 🤖 Kubernetes Advanced Concepts
+- 🏗 System Design
+- 🔥 Microservices
+- 🧠 Data Structures & Algorithms
 
 ---
 
-# 🏆 Goals
+# 🎯 2026 Goals
 
-- ✅ Become a DevOps Engineer
-- ✅ Build Production-Ready Applications
-- ✅ Contribute to Open Source
-- ✅ Master Kubernetes & AWS
-- ✅ Publish AI Projects
-- ✅ Build a Successful Startup
+✅ Become a DevOps Engineer
 
----
+✅ Master Kubernetes
 
-# 📜 Certifications & Learning
+✅ Build Production-Ready Applications
 
-- Linux Fundamentals
-- Git & GitHub
-- Docker
-- Kubernetes
-- Jenkins
-- AWS (Learning)
-- DevOps Fundamentals
+✅ Contribute to Open Source
+
+✅ Publish AI Projects
+
+✅ Launch My Own Startup
 
 ---
 
-# 🤝 Let's Connect
+# 📫 Connect With Me
 
-<p align="left">
+<p>
 
-📧 **Email:**  
-**shub3475@gmail.com**
+📧 **Email:** **shub3475@gmail.com**
 
 🔗 **LinkedIn:**  
 https://www.linkedin.com/in/shubham-yadav-a45867213
@@ -229,12 +202,9 @@ https://orcid.org/0009-0000-2031-1197
 
 <div align="center">
 
-## 💡 Quote
+### 💻 *"Code. Containerize. Deploy. Scale."*
 
-*"Code it. Containerize it. Deploy it. Scale it."*
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+⭐ If you like my work, consider starring my repositories.
 
 </div>
 ```
-
