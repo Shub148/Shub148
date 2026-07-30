@@ -457,3 +457,11 @@ If you like my work, consider ⭐ starring my repositories.
 </div>
 
 ---
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shub148/Shub148/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
