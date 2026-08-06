@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="YOUR_BANNER_URL" alt="GitHub Banner"/>
+<img src="https://drive.google.com/uc?export=view&id=1WIe0T4b4HkE1lyuMdqThLUp0k8Qza66r" alt="GitHub Banner" width="100%" />
 
 # Hi 👋, I'm **Shubham Yadav**
 
